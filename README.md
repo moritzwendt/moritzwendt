@@ -2,8 +2,6 @@
 
 ### Frontend Developer and Designer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moritzwendt&label=Profile views&color=0e75b6&style=flat" alt="moritzwendt" /> </p>
-
 - 🔭 I'm currently working on **Lua Kernel Mods for FiveM**
 
 - 🌱 I'm currently learning **TypeScript**
