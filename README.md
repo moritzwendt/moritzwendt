@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **moritz_wendt@icloud.com**
 
-- 👨‍💻 All of my projects are available at **[https://moritzwendt.de](https://moritzwendt.de)**
+- 👨‍💻 All of my Websites are free to look at on my Github
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
