@@ -2,7 +2,7 @@
 
 ### Frontend Developer and Designer
 
-- 🔭 I’m currently working on a **new iOS app called SNUSDEX**. More info here: linktree.snusdex.com
+- 🔭 I’m currently working on a new **iOS app called SNUSDEX**. More info here: **linktree.snusdex.com**
 
 - 🌱 I'm currently learning **TypeScript**
 
