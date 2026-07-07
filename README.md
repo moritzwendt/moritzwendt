@@ -2,17 +2,17 @@
 
 ### Frontend Developer and Designer
 
-- 🔭 I’m currently working on a new **iOS app called SNUSDEX**. More info here: **linktree.snusdex.com**
+- I’m currently working on a new **iOS app called SNUSDEX**. More info here: **linktree.snusdex.com**
 
-- 🌱 I'm currently learning **TypeScript**
+- I'm currently learning **QML**
 
-- 👯 I'm looking to collaborate on **open source iPhone exploits**
+- I'm looking to collaborate on **open source iPhone exploits**
 
-- 💬 Ask me about **React, ReactNative, Lua, FiveM**
+- Ask me about **React** • **Next.js** • **TypeScript** • **Tailwind CSS** • **SwiftUI** • **Python** • **Framer Motion** 
 
-- 📫 How to reach me **moritz_wendt@icloud.com**
+- How to reach me **kontakt@moritzwendt.de**
 
-- 👨‍💻 All of my open src Websites are free to look at on my Github
+- All of my Repos are opensource
 <!-- ═══════════════════════════════════════════════════ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
