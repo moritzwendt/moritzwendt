@@ -20,8 +20,8 @@ u$$$$$$$$$$$$$$$$$$$$$$$$$$$u       Email.Work: .................. kontakt@morit
   "$$$$$$$$$$$$$$$$$$$$$$$$$"       GitHub: ...................... github.com/moritzwendt
     "$$$$$$$$$$$$$$$$$$$$$"
       """$$$$$$$$$$$$$"""           GitHub Stats --------------------------
-                                     Repos: ...... 15 | Stars: .......... 3
-                                     Commits: .... 287 (past year) | Followers: 1
-                                     Currently: ... building SNUSDEX® (iOS) - linktree.snusdex.com
-                                     Learning: .... QML
+                                     Repos: ......... 15 | Stars: ................ 3
+                                     Commits: ....... 287 (past year) | Followers: 1
+                                     Currently: ..... building SNUSDEX® (iOS) - linktree.snusdex.com
+                                     Learning: ...... QML
 ```
