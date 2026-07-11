@@ -1,25 +1,31 @@
-# Hi 👋, I'm Moritz Wendt
+```
+       uuuuuuu                      moritz@github ------------------------
+   uu$$$$$$$$$$$uu                  OS: ........................ macOS, iOS
+ uu$$$$$$$$$$$$$$$$$uu              Uptime: .................... 2 years, 1 month
+u$$$$$$$$$$$$$$$$$$$$$u             Host: ...................... SDX(R) Solutions UG
+u$$$$$$$$$$$$$$$$$$$$$u             Kernel: .................... Frontend Developer & Designer
+u$$$$$$"   "$$$"   "$$$$$u          IDE: ....................... VSCode, Xcode
+"$$$$"      u$u       $$$$"
+$$$u       u$u       u$$$           Languages.Programming: ..... Swift, TypeScript, Python, C++
+$$$u      u$$$u      u$$$           Languages.Computer: ........ HTML, CSS, QML, JSON
+ "$$$$uu$$$   $$$uu$$$$"            Languages.Real: ............ Deutsch, English
+  "$$$$$$$"   "$$$$$$$"
+    u$$$$$$$u$$$$$$$u               Hobbies.Software: .......... iOS Dev, UI/UX Design
+     u$"$"$"$"$"$"$u                Hobbies.Hardware: .......... iOS Jailbreaking
+  uuu$$u$ $ $ $ $u$$uuu
+ u$$$$$$$$$u$u$u$$$$$$$$$uu         Contact -------------------------------
+u$$$$$$$$$$$$$$$$$$$$$$$$$$$u       Email: ...................... kontakt@moritzwendt.de
+ $$$$$$$$$$$$$$$$$$$$$$$$$$$$       Website: ..................... moritzwendt.de
+ "$$$$$$$$$$$$$$$$$$$$$$$$$$$"      Instagram: ................... instagram.com/moritzo_
+  "$$$$$$$$$$$$$$$$$$$$$$$$$"       GitHub: ...................... github.com/moritzwendt
+    "$$$$$$$$$$$$$$$$$$$$$"
+      """$$$$$$$$$$$$$"""          GitHub Stats --------------------------
+                                     Repos: ...... 15 | Stars: .......... 3
+                                     Commits: .... 287 (past year) | Followers: 1
+                                     Currently: ... building SNUSDEX (iOS) - linktree.snusdex.com
+                                     Learning: .... QML
+```
 
-### Frontend Developer and Designer
+Ask me about **Swift** • **React** • **Next.js** • **TypeScript** • **Tailwind CSS** • **SwiftUI** • **Python** • **Framer Motion**
 
-- I’m currently working on a new **iOS app called SNUSDEX**. More info here: **linktree.snusdex.com**
-
-- I'm currently learning **QML**
-
-- I'm looking to collaborate on **open source iPhone exploits**
-
-- Ask me about **React** • **Next.js** • **TypeScript** • **Tailwind CSS** • **SwiftUI** • **Python** • **Framer Motion** 
-
-- How to reach me **kontakt@moritzwendt.de**
-
-- All of my Repos are opensource
-<!-- ═══════════════════════════════════════════════════ 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/moritzwendt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="moritzwendt" height="30" width="40" /></a>
-<a href="https://instagram.com/moritzo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Moritz_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"><a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
--->
+I'm looking to collaborate on **open source iPhone exploits**. All of my repos are open source.
