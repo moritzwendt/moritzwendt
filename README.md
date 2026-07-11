@@ -25,7 +25,3 @@ u$$$$$$$$$$$$$$$$$$$$$$$$$$$u       Email: ...................... kontakt@moritz
                                      Currently: ... building SNUSDEX (iOS) - linktree.snusdex.com
                                      Learning: .... QML
 ```
-
-Ask me about **Swift** • **React** • **Next.js** • **TypeScript** • **Tailwind CSS** • **SwiftUI** • **Python** • **Framer Motion**
-
-I'm looking to collaborate on **open source iPhone exploits**. All of my repos are open source.
