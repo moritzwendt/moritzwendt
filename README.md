@@ -14,10 +14,10 @@ $$$u      u$$$u      u$$$           Languages.Computer: ........ HTML, CSS, QML,
      u$"$"$"$"$"$"$u                Hobbies.Hardware: .......... iOS Jailbreaking
   uuu$$u$ $ $ $ $u$$uuu
  u$$$$$$$$$u$u$u$$$$$$$$$uu         Contact -------------------------------
-u$$$$$$$$$$$$$$$$$$$$$$$$$$$u       Email.Work: .................. kontakt@moritzwendt.de
- $$$$$$$$$$$$$$$$$$$$$$$$$$$$       Email.Personal: .............. moritz_wendt@icloud.com
- "$$$$$$$$$$$$$$$$$$$$$$$$$$$"      Website: ..................... moritzwendt.de
-  "$$$$$$$$$$$$$$$$$$$$$$$$$"       GitHub: ...................... github.com/moritzwendt
+u$$$$$$$$$$$$$$$$$$$$$$$$$$$u       Email.Work: ................ kontakt@moritzwendt.de
+ $$$$$$$$$$$$$$$$$$$$$$$$$$$$       Email.Personal: ............ moritz_wendt@icloud.com
+ "$$$$$$$$$$$$$$$$$$$$$$$$$$$"      Website: ................... moritzwendt.de
+  "$$$$$$$$$$$$$$$$$$$$$$$$$"       GitHub: .................... github.com/moritzwendt
     "$$$$$$$$$$$$$$$$$$$$$"
       """$$$$$$$$$$$$$"""           GitHub Stats --------------------------
                                      Repos: ......... 15 | Stars: ................ 3
